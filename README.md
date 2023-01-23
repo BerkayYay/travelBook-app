@@ -23,11 +23,9 @@
 * Compatible with iOS 16.0+
 * Parse and Back4App used for auth and storage.
 * Live Video
-  - ![bazaarway](<video src="
+  - <video src="https://user-images.githubusercontent.com/61309524/214036428-7477b76a-3a5d-4bc5-9b61-d3146b716b70.mp4"></video>
 
-https://user-images.githubusercontent.com/61309524/214033719-e5cbd68e-4bae-42db-bd1c-14b5e743fe52.mp4
-
-" ></video)
+ 
 
 
 * Cross platform
